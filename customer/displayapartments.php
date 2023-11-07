@@ -3,6 +3,8 @@
 $dao=new DataAccess();
 $i=0;
     
+
+
 if(isset($_SESSION['email']))
 { 
 	include("nav2.php");
